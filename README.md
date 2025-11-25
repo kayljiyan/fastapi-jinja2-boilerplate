@@ -57,7 +57,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 pip install uv
 ```
 
-### 3. Install Dependencies. Install Dependencies
+### 3. Install Dependencies
 
 Since dependencies are managed by `uv`, simply run:
 
