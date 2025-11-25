@@ -4,7 +4,7 @@ A lightweight, full-stack web application template using **FastAPI** for the bac
 
 ## 🚀 Tech Stack
 
-- **Python 3.12+**
+- **Python 3.10+**
 - **FastAPI** (Web Framework)
 - **Jinja2** (Templating Engine)
 - **Uvicorn** (ASGI Server)
